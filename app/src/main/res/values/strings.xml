@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HelloNDK</string>
+
+    <string name="text_hint_your_name">Your name</string>
+    <string name="button_say_hello">Say Hello</string>
+    <string name="button_say_bye">Say Bye</string>
+    <string name="button_calculate">Calculate</string>
+
+    <string name="text_not_valid">Text is not valid</string>
+    <string name="number_not_valid">Number is not valid</string>
+
+    <string name="hint_number">0</string>
+    <string name="operation_add">+</string>
+
+</resources>
